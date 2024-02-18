@@ -417,4 +417,27 @@ button:hover {
   }
 }
 
+@media(max-width: 600px){
+  .info{
+    width: 90%;
+  }
+
+  table{
+    width: 95%;
+  }
+}
+
+@media(max-width: 400px){
+  .cont_agendador{
+    font-size: 25px;
+  }
+
+  .info{
+    width: 98%;
+  }
+
+  table{
+    width: 100%;
+  }
+}
 </style>
